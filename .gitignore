@@ -1,0 +1,12 @@
+## General
+
+play
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.cuo
+
+# CMakeFiles
+CMakeFiles/
